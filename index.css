@@ -1,0 +1,71 @@
+
+img {
+    border-radius: 60%;
+    vertical-align: bottom;
+}
+div {
+    border-radius: 2%;
+}
+h4 , p{
+    margin: 30px; 
+}
+.main-container {
+    margin: 50px;
+}
+.quotation-background1 {
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    padding: 2px;
+    position: relative;
+    z-index: -2;
+}
+.quotation-icon {
+    position: absolute;
+    z-index: -1;
+    right: 5%;
+    top : 5%;
+}
+.quotation-img {
+    border-radius: 0%;
+}
+.quotation-background2 {
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    padding: 2px;
+}
+.quotation-background4 {
+    background-color:  hsl(219, 29%, 14%);
+    color: white;
+    padding: 2px;
+
+}
+
+
+.name{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20PX;
+}
+.name-tag {
+    opacity: 50%;
+}
+
+.photo-name-tag {
+    margin-top: 20px;
+    margin-left: 30PX;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+
+
+
+
+
